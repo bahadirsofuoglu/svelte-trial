@@ -1,4 +1,4 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+My first svelte project. It is a simple counter sample.
 
 ---
 
